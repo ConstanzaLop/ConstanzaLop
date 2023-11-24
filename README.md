@@ -32,8 +32,11 @@ Además de mi enfoque en el desarrollo web, estoy explorando el campo de Big Dat
 - 📫 How to reach me: lopez.anaconstanza@gmail.com 
 - 😄 Pronouns: She / Her 
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ConstanzaLop) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ConstanzaLop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ana-constanza-lopez//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ConstanzaLop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ana-constanza-lopez//)   
+
+ 
 
  
 
