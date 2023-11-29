@@ -35,6 +35,15 @@ Además de mi enfoque en el desarrollo web, estoy explorando el campo de Big Dat
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ConstanzaLop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ana-constanza-lopez//)   
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ConstanzaLop">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ConstanzaLop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ConstanzaLop&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
  
 
  
