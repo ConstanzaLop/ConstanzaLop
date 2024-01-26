@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Constanza
 #### Programadora FullStack en desarrollo
-![Programadora FullStack en desarrollo](https://media.licdn.com/dms/image/D4D16AQGryh-etNh8Og/profile-displaybackgroundimage-shrink_350_1400/0/1700704650078?e=1706140800&v=beta&t=rb3z00Ym8OaiKacOTwGvhsLh5_0cd0K8RSUdWHyrpd8)
+![Programadora FullStack en desarrollo](https://media.licdn.com/dms/image/D4D16AQGryh-etNh8Og/profile-displaybackgroundimage-shrink_350_1400/0/1700704650078?e=1711584000&v=beta&t=6LfShOMegaqh1-sFhny57XDo-R_n4EBE7NZA3Nb60Oo)
 
 Mi enfoque principal se encuentra en el desarrollo frontend, donde combina mi pasión por el diseño con mis habilidades y conocimientos, con el objetivo de crear soluciones técnicas que sean visualmente atractivas y fáciles de usar.
 Además de mi enfoque en el desarrollo web, estoy explorando el campo de Big Data y Data Analytics. Actualmente, estoy aprendiendo a realizar consultas y en la recopilación y análisis de datos para obtener diagramas, gráficos y planillas.
